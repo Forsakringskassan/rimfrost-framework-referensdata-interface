@@ -2,7 +2,15 @@
 
 Changelog of rimfrost-framework-referensdata-interface.
 
-## 0.0.1 (2026-05-22)
+## 1.1.1 (2026-10-27)
+
+### Bug Fixes
+
+-  Replace github workflows ([6b620](https://github.com/Forsakringskassan/rimfrost-framework-referensdata-interface/commit/6b620025e727fef) Lars Persson)  
+
+## rimfrost-1_2 (2026-05-22)
+
+## rimfrost-1.1 (2026-05-22)
 
 ### Bug Fixes
 
